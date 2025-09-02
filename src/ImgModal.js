@@ -1,7 +1,6 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
 import { Modal, Stack } from "@mui/material";
 import sample1 from "./img/sample1.svg";
 import sample2 from "./img/sample2.jpg";
